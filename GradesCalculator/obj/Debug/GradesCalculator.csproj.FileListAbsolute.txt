@@ -1,0 +1,7 @@
+C:\Users\Jansher\Documents\Visual Studio 2019\Projects\GradesCalculator\GradesCalculator\bin\Debug\GradesCalculator.exe.config
+C:\Users\Jansher\Documents\Visual Studio 2019\Projects\GradesCalculator\GradesCalculator\bin\Debug\GradesCalculator.exe
+C:\Users\Jansher\Documents\Visual Studio 2019\Projects\GradesCalculator\GradesCalculator\bin\Debug\GradesCalculator.pdb
+C:\Users\Jansher\Documents\Visual Studio 2019\Projects\GradesCalculator\GradesCalculator\obj\Debug\GradesCalculator.csprojAssemblyReference.cache
+C:\Users\Jansher\Documents\Visual Studio 2019\Projects\GradesCalculator\GradesCalculator\obj\Debug\GradesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Jansher\Documents\Visual Studio 2019\Projects\GradesCalculator\GradesCalculator\obj\Debug\GradesCalculator.exe
+C:\Users\Jansher\Documents\Visual Studio 2019\Projects\GradesCalculator\GradesCalculator\obj\Debug\GradesCalculator.pdb
