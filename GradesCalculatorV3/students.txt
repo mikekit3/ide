@@ -1,0 +1,7 @@
+Surname     	Name        	HW1 HW2 HW3 HW4 HW5  Exam 
+James		Kolin         	8   9  10   6  	10     9 
+Thomas    	Austin         	7  10   8   5   4      6
+Karl    	Max         	8   9  10   6  	10     9 
+Chris    	Thomas         	7  10   8   5   4      6
+Paul    	Jerry         	8   9  10   6  	10     9 
+James    	Alain         	7  10   8   5   4      6 
